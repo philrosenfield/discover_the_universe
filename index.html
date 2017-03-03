@@ -17,10 +17,13 @@
       <header>
         <h1>Philip Rosenfield</h1>
         <p>NSF Astronomy and Astrophysics Fellow at the Harvard-Smithsonian Center for Astrophysics.</p>
-        <p class="view"><a href="../research.html">Research</a></p>
-        <p class="view"><a href="../outreach.html">Outreach</a></p>
-        <p class="view"><a href="../teaching.html">Teaching</a></p>
-        <p class="view"><a href="../contact.html">Contact</a></p>
+        <ul>
+          {% for post in site.posts %}
+            <li>
+              <a href="{{ post.url }}">{{ post.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
       </header>
       <section>
         <h3>Discover Our Universe</h3>
