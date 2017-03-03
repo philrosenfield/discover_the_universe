@@ -1,8 +1,9 @@
 theme: jekyll-theme-architect
-defaults:
-  - values:
-      root: ..
-  - scope:
-      path: ""
-      type: posts
+source: .
+desitnation: ./_site
+collections:
+    posts:
+        output: true
+
 title: Discover Our Universe
+author: "Phil Rosenfield"
