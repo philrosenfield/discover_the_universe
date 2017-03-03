@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Shape of the Earth"
+date:   2017-03-08 11:00:00 -0600
+categories: lesson plan
+---
 # Shape of the Earth
 **Date** 8 Mar 2017
 **Lesson** 1 of 8
