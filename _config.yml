@@ -1,9 +1,9 @@
 theme: jekyll-theme-architect
 source: .
-desitnation: ./_site
+destination: ./_site
 collections:
     posts:
         output: true
 
-title: Discover Our Universe
+title: "Discover Our Universe"
 author: "Phil Rosenfield"
