@@ -1,4 +1,5 @@
-repository: tomjohnson1492/documentation-theme-jekyll
+<<<<<<< HEAD
+repository: philrosenfield/discover_the_universe
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
@@ -12,10 +13,10 @@ site_title: Jekyll theme for documentation
 company_name: Your company
 # this appears in the footer
 
-github_editme_path: tomjohnson1492/documentation-theme-jekyll/blob/gh-pages/
+github_editme_path: philrosenfield/discover_the_universe/documentation-theme-jekyll/blob/gh-pages/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
-disqus_shortname: idrbwjekyll
+disqus_shortname:
 # if you're using disqus for comments, add the shortname here. if not, leave this value blank.
 
 host: 127.0.0.1
@@ -31,7 +32,7 @@ exclude:
 
 feedback_subject_line: Jekyll documentation theme
 
-feedback_email: tomjohnson1492@gmail.com
+feedback_email: philip.rosenfield@cfa.harvard.edu
 # used as a contact email for the Feedback link in the top navigation bar
 
 # feedback_disable: true
