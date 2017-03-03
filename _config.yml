@@ -1,1 +1,8 @@
 theme: jekyll-theme-architect
+defaults:
+  - values:
+      root: ..
+  - scope:
+      path: ""
+      type: posts
+title: Discover Our Universe
